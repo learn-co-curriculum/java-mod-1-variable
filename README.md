@@ -23,7 +23,7 @@ we have both stored this information somewhere in our heads. Something like this
 - John's bike is 36 inches high  
 - Claire's bike is 42 inches high
 
-If we had other bikes, we could imagine they would be a lot of different heights. In other words, the "height" property
+If we had other bikes, we could imagine there would be a lot of different heights. In other words, the "height" property
 of the bike can "vary" from bike to bike. So we call it a **variable** and we give it a name, so we can refer to it
 later. In Java, we do that as follows:
 
