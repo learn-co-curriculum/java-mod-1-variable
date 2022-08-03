@@ -78,7 +78,7 @@ unit of storage and can store one binary digit (0 or 1).
 | `double`  | 8 bytes | Stores fractional numbers up to a precision of 15 decimal digits              |
 
 When it comes to true/false values, we tend to use **boolean** as the data type. When we want to store a letter or a
-single character, we use the data type **char**. For whole numbers, we usually we use **int** as the data type and
+single character, we use the data type **char**. For whole numbers, we usually use **int** as the data type and
 **double** for decimal values.
 
 If we want to store a word or a sentence of words, we would use the data type **String**.
