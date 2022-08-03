@@ -24,7 +24,7 @@ we have both stored this information somewhere in our heads. Something like this
 - Claire's bike is 42 inches high
 
 If we had other bikes, we could imagine there would be a lot of different heights. In other words, the "height" property
-of the bike can "vary" from bike to bike. So we call it a **variable** and we give it a name, so we can refer to it
+of the bike can "vary" from bike to bike. So we call it a **variable,** and we give it a name, so we can refer to it
 later. In Java, we do that as follows:
 
 ```java
@@ -34,6 +34,15 @@ int height;
 The first part of that statement is the type of variable, which indicates to Java the kind of value we are expecting to
 store in this variable. The second part is the name we want to be able to refer to the variable as.
 Once we define a variable, we can give it a value, and we can refer to it at a later stage.
+
+## Variable Naming Convention
+
+By convention, in Java the name of the variable usually starts with a lowercase character.
+- If the name of the variable has multiple words in it, the first word will start wtih a lowercase character and every
+word after will start with an uppercase character. For example: `bikeColor`.
+  - This is often referred to as "**camel case**". If we remember from the Class lesson, classes will use the pascal
+  case naming convention where variables will make use of the camel case convention. 
+- There are some exceptions to this style guide, but we will cover them as they come up. 
 
 ## Why does a variable have a type?
 
