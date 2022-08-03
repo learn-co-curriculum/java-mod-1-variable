@@ -89,6 +89,8 @@ A String is a little different from the above data types. All the above data typ
 We will talk more about memory in a minute, but for now know that the two types are stored differently within memory.
 An example of a reference data type is a `String` or an Object like our `Bicycle`.
 
+Now let us dive into what memory is and how it is used in Java!
+
 ## Resources
 
 [Primitive Data Type table](https://www.w3schools.com/java/java_data_types.asp)
