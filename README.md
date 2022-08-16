@@ -97,8 +97,8 @@ unit of storage and can store one binary digit (0 or 1).
 |-----------|---------|-------------------------------------------------------------------------------|
 | `boolean` | 1 bit   | Stores true or false values                                                   |
 | `byte`    | 1 byte  | Stores whole numbers from -128 to 127                                         |
- | `char`    | 2 bytes | Stores a single character or ASCII value                                      |
- | `int`     | 4 bytes | Stores whole numbers from -2.147 x 10<sup>9</sup> to 2.147 x 10<sup>9</sup>   |
+| `char`    | 2 bytes | Stores a single character or ASCII value                                      |
+| `int`     | 4 bytes | Stores whole numbers from -2.147 x 10<sup>9</sup> to 2.147 x 10<sup>9</sup>   |
 | `long`    | 8 bytes | Stores whole numbers from -9.223 x 10<sup>18</sup> to 9.223 x 10<sup>18</sup> |
 | `float`   | 4 bytes | Stores fractional numbers up to a precision of 6 to 7 decimal digits          |
 | `double`  | 8 bytes | Stores fractional numbers up to a precision of 15 decimal digits              |
